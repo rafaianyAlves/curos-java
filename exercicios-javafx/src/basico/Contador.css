@@ -1,0 +1,31 @@
+.conteudo{
+	-fx-background-color: pink;
+	-fx-font-family: Viga;
+	
+}
+
+.numero {
+	-fx-text-fill: #080808;
+	-fx-font-size: 22px; 
+}
+
+.fonte {
+	-fx-text-fill: #ff0080;
+	-fx-font-size: 22px;
+}
+.botoes {
+	-fx-background-color: #ffffff;
+	-fx-text-fill: #ff0080;
+	-fx-font-size: 24px;
+	-fx-min-width: 30px;
+	-fx-min-height: 30px;
+	-fx-background-radius: 8px;
+
+}
+.verde {
+	-fx-text-fill: green;
+}
+.vermelho{
+	-fx-text-fill: red;
+	
+}
